@@ -42,7 +42,7 @@ python3 server.py
 
 **Start web application**
 
-Go to this demo for usage. [Web Application](https://www.google.co.th)
+Go to this demo for usage. [Web Application](https://github.com/kritnambutt/FaceRecognition_web/)
 
 ## Result
 For Flask Server go to (http://localhost:5000)
