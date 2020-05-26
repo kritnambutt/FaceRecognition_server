@@ -45,7 +45,9 @@ python3 server.py
 Go to this demo for usage. [Web Application](https://github.com/kritnambutt/FaceRecognition_web/)
 
 ## Result
+
 For Flask Server go to (http://localhost:5000)
+
 For Video Streaming go to (http://localhost:5000/video_feed)
 
 ## License
