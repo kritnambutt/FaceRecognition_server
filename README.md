@@ -1,4 +1,3 @@
-# FaceRecognition
 ## Smart Mobility - Face Recognition server
 
 - Flask REST Framework
