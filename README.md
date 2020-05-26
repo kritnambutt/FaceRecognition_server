@@ -30,8 +30,23 @@ or
 pip3 install -r requirements.txt
 ```
 
+### Usage
+
+**Start web server**
+
+Start flask server by run following commands in terminal
+
+```
+python3 server.py
+```
+
+**Start web application**
+
+Go to this demo for usage. [Web Application](https://www.google.co.th)
+
 ## Result
 For Flask Server go to (http://localhost:5000)
+For Video Streaming go to (http://localhost:5000/video_feed)
 
 ## License
 This project is licensed under the MIT License
