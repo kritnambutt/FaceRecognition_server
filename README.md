@@ -7,4 +7,5 @@
 
 # Getting Started
 
-https://github.com/ageitgey/face_recognition
+Install python library `face_recognition`
+- https://github.com/ageitgey/face_recognition
