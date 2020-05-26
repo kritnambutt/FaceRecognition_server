@@ -14,13 +14,18 @@ Install python library `face_recognition`
 - https://github.com/ageitgey/face_recognition
 
 Install python environment
+
 **conda** 
+
 ```
 conda env create -f environment.yml
 conda activate facerec
 ```
+
 or
+
 **pip**
+
 ```
 pip3 install -r requirements.txt
 ```
