@@ -8,6 +8,8 @@
 
 Download and Install python3, if you don't have them.
 
+### Installing
+
 Install python library `face_recognition`
 - https://github.com/ageitgey/face_recognition
 
