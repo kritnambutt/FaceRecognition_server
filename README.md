@@ -46,9 +46,8 @@ Go to this demo for usage. [Web Application](https://github.com/kritnambutt/Face
 
 ## Result
 
-For Flask Server go to (http://localhost:5000)
-
-For Video Streaming go to (http://localhost:5000/video_feed)
+- For Flask Server go to (http://localhost:5000)
+- For Video Streaming go to (http://localhost:5000/video_feed)
 
 ## License
 This project is licensed under the MIT License
