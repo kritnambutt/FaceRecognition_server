@@ -34,6 +34,12 @@ pip3 install -r requirements.txt
 
 **Start web server**
 
+Run the camera process face recognition by run following commands in terminal
+
+```
+python3 camera1.py
+```
+
 Start flask server by run following commands in terminal
 
 ```
