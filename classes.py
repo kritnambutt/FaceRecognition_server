@@ -1,5 +1,5 @@
 # from streamer import streamer
-# from app import socketio
+from app import socketio
 import cv2
 import face_recognition
 import numpy as np
@@ -115,7 +115,7 @@ class VideoCamera1():
                         name = self.known_face_names[best_match_index]
 
                     self.face_names.append(name)
-                    self.r.setex('people_camera1', 1, name)
+                    socketio.emit('newnumber', {'number': 0.562}, namespace='/test')
 
             self.process_this_frame = not self.process_this_frame
 
@@ -140,7 +140,5 @@ class VideoCamera1():
             self.broadcast(frame, quality=70)
             # return jpeg.tobytes()
 
-    # if __name__ == "__main__":
-    #     print('main camera 1')
-instance = VideoCamera1()
-instance.get_frame()
+    if __name__ == "__main__":
+        get_frame()
